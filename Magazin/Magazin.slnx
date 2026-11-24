@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Domain/">
+    <Project Path="Magazin.Functional/Magazin.Functional.csproj" />
+    <Project Path="Magazin.Domain/Magazin.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Data/">
+    <Project Path="Magazin.Data/Magazin.Data.csproj" />
+  </Folder>
+  <Folder Name="/Hosts/">
+    <Project Path="Magazin.ConsoleApp/Magazin.ConsoleApp.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>Workflow-ul de plasare a unei comenzi pentru un magazin virtual, scris în stil DDD funcțional (operații pure compuse în stil railway).</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Magazin.Functional\Magazin.Functional.csproj" />
+  </ItemGroup>
+
+</Project>
